@@ -19,7 +19,6 @@ Hi, I'm Evan! I'm a software engineer skilled with MERN and I'm learning Java. H
 
 - I'm studying Programming at American Public University and I'm in the last month of Lambda School's full stack web program 🏫
 - I've been playing drums for 15 years and guitar for 9 years 🥁
-- I eat lemons whole 😋
 
 Connect with me here:
 - https://www.linkedin.com/in/notrabe/
