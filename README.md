@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi, I'm Evan! I'm a software engineer skilled with MERN and I'm learning Java. Here's a little more about me:
+Hi, I'm Evan! I'm a software engineer skilled with PERN, MERN and I'm learning Java. Here's a little more about me:
 
-- I'm studying Programming at American Public University and I'm in the last month of Lambda School's full stack web program 🏫
+- I'm a graduate of Lambda School's Full-Stack Seb program and I'm studying Programming at American Public University 🏫
 - I've been playing drums for 15 years and guitar for 9 years 🥁
 
 Connect with me here:
